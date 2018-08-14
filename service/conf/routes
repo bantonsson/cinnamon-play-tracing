@@ -1,1 +1,1 @@
-GET  /request/:message  controllers.Service.request(message)
+->  /  routers.ServiceRouter
